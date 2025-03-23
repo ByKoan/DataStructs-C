@@ -5,4 +5,5 @@ This repository has been created in order to have data structures of the C progr
 At the moment have:
 
 -> DynamicArrays
+
 -> Working on Hash maps...
